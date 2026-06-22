@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vedanshsa/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
