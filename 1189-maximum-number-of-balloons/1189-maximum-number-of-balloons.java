@@ -5,7 +5,7 @@ class Solution {
             freq[c - 'a']++;
         }
         
-        // balloon requires: b=1, a=1, l=2, o=2, n=1
+       
         int b = freq['b' - 'a'];
         int a = freq['a' - 'a'];
         int l = freq['l' - 'a'] / 2;
