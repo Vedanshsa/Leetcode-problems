@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vedanshsa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vedanshsa/Leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
@@ -104,13 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
