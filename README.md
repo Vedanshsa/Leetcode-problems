@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vedanshsa/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Vedanshsa/Leetcode/tree/master/0029-divide-two-integers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Vedanshsa/Leetcode/tree/master/0133-clone-graph) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
