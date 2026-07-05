@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vedanshsa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Vedanshsa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vedanshsa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vedanshsa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedanshsa/Leetcode/tree/master/0055-jump-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vedanshsa/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Divide and Conquer
 |  |
 | ------- |
