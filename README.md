@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vedanshsa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Vedanshsa/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vedanshsa/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/Vedanshsa/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/Vedanshsa/Leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vedanshsa/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Vedanshsa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Vedanshsa/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vedanshsa/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedanshsa/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
