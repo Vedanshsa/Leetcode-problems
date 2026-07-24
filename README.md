@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vedanshsa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Vedanshsa/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Vedanshsa/Leetcode/tree/master/0070-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vedanshsa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vedanshsa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedanshsa/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Vedanshsa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedanshsa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vedanshsa/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
