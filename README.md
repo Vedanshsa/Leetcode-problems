@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vedanshsa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Vedanshsa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vedanshsa/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vedanshsa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vedanshsa/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Vedanshsa/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vedanshsa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vedanshsa/Leetcode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
