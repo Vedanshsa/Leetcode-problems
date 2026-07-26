@@ -1,7 +1,16 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int n = nums.length; Arrays.sort(nums);
-        return Math.max(nums[n-1]*nums[n-2]*nums[n-3],
-                        nums[0]*nums[1]*nums[n-1]);
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        
+        for (int x : nums) {
+            maxHeap.offer(x);
+            minHeap.offer(x);
+        }
+        
+        int max1 = maxHeap.poll(), max2 = maxHeap.poll(), max3 = maxHeap.poll();
+        int min1 = minHeap.poll(), min2 = minHeap.poll();
+        
+        return Math.max(max1 * max2 * max3, min1 * min2 * max1);
     }
 }
