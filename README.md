@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vedanshsa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vedanshsa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0495-teemo-attacking](https://github.com/Vedanshsa/Leetcode/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/Vedanshsa/Leetcode/tree/master/0495-teemo-attacking) |
 ## Memoization
 |  |
 | ------- |
