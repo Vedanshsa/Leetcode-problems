@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vedanshsa/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Vedanshsa/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vedanshsa/Leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedanshsa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedanshsa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vedanshsa/Leetcode/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Vedanshsa/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vedanshsa/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
