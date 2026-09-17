@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vedanshsa/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vedanshsa/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedanshsa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -290,12 +291,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedanshsa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Vedanshsa/Leetcode/tree/master/0071-simplify-path) |
+| [2390-removing-stars-from-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Vedanshsa/Leetcode/tree/master/0495-teemo-attacking) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
