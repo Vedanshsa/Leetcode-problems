@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Vedanshsa/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vedanshsa/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedanshsa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vedanshsa/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedanshsa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedanshsa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vedanshsa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vedanshsa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vedanshsa/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Vedanshsa/Leetcode/tree/master/0495-teemo-attacking) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vedanshsa/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
