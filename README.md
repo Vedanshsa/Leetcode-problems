@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vedanshsa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Vedanshsa/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Vedanshsa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vedanshsa/Leetcode/tree/master/0049-group-anagrams) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vedanshsa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Vedanshsa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedanshsa/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vedanshsa/Leetcode/tree/master/0179-largest-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vedanshsa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Vedanshsa/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vedanshsa/Leetcode/tree/master/0283-move-zeroes) |
