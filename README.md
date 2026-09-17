@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vedanshsa/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vedanshsa/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Vedanshsa/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vedanshsa/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedanshsa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedanshsa/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vedanshsa/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Vedanshsa/Leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedanshsa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Vedanshsa/Leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Vedanshsa/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vedanshsa/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Vedanshsa/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
