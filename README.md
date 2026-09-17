@@ -338,4 +338,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Vedanshsa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vedanshsa/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vedanshsa/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vedanshsa/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
