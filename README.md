@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vedanshsa/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vedanshsa/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vedanshsa/Leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Vedanshsa/Leetcode/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedanshsa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedanshsa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vedanshsa/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vedanshsa/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vedanshsa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vedanshsa/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Vedanshsa/Leetcode/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/Vedanshsa/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vedanshsa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vedanshsa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Vedanshsa/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Vedanshsa/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
