@@ -378,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vedanshsa/Leetcode/tree/master/0175-combine-two-tables) |
+| [1667-fix-names-in-a-table](https://github.com/Vedanshsa/Leetcode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
